@@ -1,0 +1,14 @@
+Creer antité customer
+creer l'interface CustomerRepository
+definir bd
+creer app
+"localhost:8081/customers/1"
+"localhost:8081/actuator"
+creer inventory service (creer un nouveau projet sprint nome "inventory-service")
+Creer entity product et l'interface ProductRepository
+"localhost:8082/products"
+Creer un nouveau projet nomé "gateway"
+faire le test de customer et produuct avec gatway
+creer un nouveau projet nomé "eureka-discovry"
+"localhost:8761" pour voir tous les micro deja enregistré
+"localhost:8888/CUSTOMER-SERVICE/customers/1"
